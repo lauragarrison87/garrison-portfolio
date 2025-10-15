@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lauragarrison87
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - lauragarrison87/DimLift
+  - lauragarrison87/spectramosaic-public
+  - lauragarrison87/star.web
+  - lauragarrison87/metaphorTool
