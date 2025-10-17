@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Visualization theory | Biomedical visualization | Visual communication | Human-computer interaction 
+subtitle: visualization theory | biomedical visualization | visual communication | human-computer interaction 
 
 profile:
   align: right

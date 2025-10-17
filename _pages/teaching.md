@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: In addition to leading core courses in the visualization MSc curriculum, I give guest lectures and teach in workshops and summer schools on data visualization and design across different domains. 
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ### Instructor
