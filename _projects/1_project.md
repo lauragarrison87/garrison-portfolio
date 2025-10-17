@@ -1,81 +1,23 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Practical Data Vis with Vega-Altair
+description: Materials for a gentle introduction to developing data visualizations.
+img: assets/img/vis.png
 importance: 1
-category: work
-related_publications: true
+category: outreach
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Data visualization is awesome, but can be overwhelming to actually get into. Libraries like Vega-Altair are a great, gentle introduction to developing visualizations without getting bogged down in hundreds of lines of code to build out a simple plot. I especially like Vega-Altair because this flavor of the Vega visualization ecosystem is Python-based, so anyone in data science is likely to be pretty comfortable with this. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+[Pere-Pau Vázquez](https://www.cs.upc.edu/~ppau/), [Amy Zhang](https://amykzhang.com/), and I put together [DataVis 10½: A practical brief intro to data visualization](https://biomedvis.github.io/2025/announcements/program/#Altair)", a half-day workshop introducing this library which Amy expertly led at the Bio+MedVis School in conjunction with [VCBM](https://conferences.eg.org/vcbm2025/) in Delft. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- **Workshop introduction** [[slides](https://docs.google.com/presentation/d/1Mt3DR-b07MdOAB-PVciszoGgEJBaW0r0Jz3TpzJDrdA/edit?slide=id.g38767a9514f_0_9#slide=id.g38767a9514f_0_9)]
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- **Workshop Notebooks**: 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+  - [Vega-Altair Basics](https://drive.google.com/drive/folders/1DMr8ohY3la3pPOJODcM-gf4PShrsXi0O)
+  - [Vega-Altair Advanced](https://colab.research.google.com/drive/1ufEB9BJ3cZUm4g2rPu4GHf-dK7xXZuOe)
+  - [Vega-Altair Challenge: Gene Expression](https://colab.research.google.com/drive/1ufEB9BJ3cZUm4g2rPu4GHf-dK7xXZuOe)
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+For a deeper dive into Vega-Altair, Amy and I co-developed an [Introduction to data visualization (DIGI118)](https://www4.uib.no/en/studies/courses/digi118) mini-course at the University of Bergen. The first run of the course was in norwegian (Autumn 2024) with the second course run in english (Autumn 2025). Materials will be made available soon.
