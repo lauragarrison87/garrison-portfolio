@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: visualization theory | biomedical visualization | visual communication | human-computer interaction 
+subtitle: visualization theory | biomedical visualization | visual communication & rhetoric | visual analytics
 
 profile:
   align: right
@@ -38,7 +38,7 @@ My research focuses on **designing tools to support exploration and communicatio
 
 
 ## bio
-I am an **associate professor (tenure-track)** in the [VisGroup](https://vis.uib.no/) at the Department of Informatics, University of Bergen, Norway where I lead the [Visual Engagement Lab](./lab). I am co-affiliated with the [Mohn Medical Imaging and Visualization Centre](http://mmiv.no/), the [UiB Center for Digital Narrative](https://www4.uib.no/forskning/forskningssentre/senter-for-digitale-fortellinger), and the [UiB Fagspråksenteret](https://www4.uib.no/forskning/forskningssentre/senter-for-norsk-fagsprak-fagspraksenteret). I have been active in visualization research since 2018, preceded by several years’ experience as a biomedical illustrator and content director in successful health technology startups across the US. 
+I am an **associate professor (tenure-track)** in the [VisGroup](https://vis.uib.no/) at the Department of Informatics, University of Bergen, Norway where I lead the [Visual Engagement Lab](https://vis.uib.no/groups/team-garrison/). I am co-affiliated with the [Mohn Medical Imaging and Visualization Centre](http://mmiv.no/), the [UiB Center for Digital Narrative](https://www4.uib.no/forskning/forskningssentre/senter-for-digitale-fortellinger), and the [UiB Fagspråksenteret](https://www4.uib.no/forskning/forskningssentre/senter-for-norsk-fagsprak-fagspraksenteret). I have been active in visualization research since 2018, preceded by several years’ experience as a biomedical illustrator and content director in successful health technology startups across the US. 
 
 I have been active on the organizing and program committees of top visualization venues such as IEEE VIS and EG EuroVIS as well as topic-specific symposia such as EG Visual Computing for Biology and Medicine. In addition, I serve on the Board of the [Vesalius Trust for Visual Communication in the Health Sciences](https://vesaliustrust.org/), a non-profit foundation to support education and research in medical illustration and related fields. 
 

@@ -1,37 +1,90 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Laura Garrison",
+    "label": "Visualization Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "laura [dot] garrison [at] uib [dot] no",
+    "url": "https://laura-garrison.com/",
+    "summary": "My research focuses on designing tools to support exploration and communication about phenomena in our world, and investigates the impacts of data design strategies on audience engagement through alternative theories and epistemologies.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Thormølens Gate 55",
+      "postalCode": "5006",
+      "city": "Bergen",
+      "countryCode": "Norway"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "BlueSky",
+        "username": "lauragarrison.bsky.social",
+        "url": "https://bsky.app/profile/lauragarrison.bsky.social"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Institute for Informatics, University of Bergen",
+      "position": "Associate Professor in Visualization (Tenure-Track)",
+      "url": "https://vis.uib.no/",
+      "startDate": "2023-07-01",
+      "summary": "I am an Associate Professor of Visualization in the Institute for Informatics at the University of Bergen and affiliated with the Mohn Medical Imaging and Visualization Centre (MMIV) and the Center for Digital Narrative in Bergen, Norway. My research investigates the processes and assumptions designers make when crafting visualizations, and their impact on audience engagement and behavior. My teaching includes supervision of individual bachelor and master student projects in visualization, and teaching INF251 (Computer Graphics), INF 252 (Visualization), and DIGI118 (Introduction to Visualization). I am part of a long-running collaborative partnership with Otto-von-Guericke University in Magdeburg, Germany.",
+    },
+    {
+      "name": "Bouvet",
+      "position": "Senior Consultant",
+      "url": "https://bouvet.no",
+      "startDate": "2023-01-01",
+      "endDate": "2023-30-06",
+      "summary": "I was based in the Bergen office of Bouvet, a technology consulting firm servicing businesses spanning several industry sectors, both public and private, across Scandinavia. My speciality areas included Visualization, Data Science, and UI/UX Design. The working language in Bouvet is Norwegian."
+    },
+    {
+      "name": "Mohn Medical Imaging and Visualization Centre",
+      "position": "Researcher & Medical Illustrator",
+      "url": "https://mmiv.no",
+      "startDate": "2023-01-01",
+      "endDate": "2023-30-06",
+      "summary": "I served as the representative for visualization on the MMIV leadership team and carried out visualization research in collaboration with colleagues within the MMIV and adjacent groups in Haukeland University Hospital. I additionally created medical illustrations to support MMIV research in print and digital formats."
+    },
+    {
+      "name": "Institute for Informatics, University of Bergen",
+      "position": "Visualization Researcher",
+      "url": "https://vis.uib.no",
+      "startDate": "2018-12-01",
+      "endDate": "2022-12-31",
+      "summary": "I developed novel, intuitive techniques for the exploration, analysis, and communication of physiological data and processes that occur within our bodies. My interactive visual solutions retained the user in the loop to leverage the relative strengths of humans and machines. At a broad level, my aim in my PhD research was to reduce the barrier to understanding this complex information and contribute to improving public health and health literacy. Funding for my research was provided by the Visual Data Science for Large Scale Hypothesis Management in Imaging Biomarker Discovery (VIDI) project. "
+    },
+    {
+      "name": "BioDigital, New York, NY",
+      "position": "",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-30-06",
+      "summary": ""
+    },
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-30-06",
+      "summary": ""
+    },
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-30-06",
+      "summary": ""
+    },
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-30-06",
+      "summary": ""
     }
+    
   ],
   "volunteer": [
     {

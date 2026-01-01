@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-### Instructor
+### Courses
 - [Visualization (INF 252)](https://www4.uib.no/en/courses/inf252). S24, S25, *S26 (supporting role)*.
 - [Computer Graphics (INF 251)](https://www4.uib.no/en/courses/inf251). H24 (co-taught with [Noeska Smit](https://www4.uib.no/finn-ansatte/Noeska.Smit)), H25.
 - [DIGI 118 (Introduksjon til datavisualisering)](https://www4.uib.no/emner/digi118). H24, *H25 (supporting role)*. 
@@ -27,3 +27,23 @@ nav_order: 4
 - **Share Your Science: Visualization for Communication**. Autumn Research School in Artificial Intelligence Methods in Medical Imaging 2023. Sommarøy, Norway, September 2023.
 - **Crash Course in Creating Biomedical Graphics**. Bio+Med+Vis Summer School 2023. Norrköping, Sweden, September 2023.
 - **Visualization and Communication**. Bio+Med+Vis Spring School, Virtual, May 2021.
+
+### Current PhD Students 
+
+- **[Ke Er (Amy) Zhang](www.amykzhang.com)** -- critical visualization 
+- **[Roxanne Ziman](https://vis.uib.no/team/roxanne-ziman/)** -- affective visualization and biomedical communication 
+- **[Hanna Balaka](https://vis.uib.no/team/hanna-balaka/)** -- visual analytics 
+
+### Current MSc Students 
+
+- **Magnus Severinsen** -- storytelling for multivariate, time-oriented social networks
+- **Carl Didrik Torkildsen** -- visual exploration of linguistics databases 
+- **Dag Bjugn** -- gamifying data visualization  
+- **Nicholas Mjøs** -- mixed-methods metrics for engagement with visual data stories 
+- **Martin Štourač** (Masaryk University) -- patient-friendly visualization of multimodal medical data 
+
+
+### Former Students 
+
+- **Jakub Vašíček** (MSc - Masaryk University) -- magnetic resonance spectroscopy design study (SpectraMosaic) 
+- **Beatrice Budich** (MSc - Otto von Guericke University) -- medical narrative visualization for hyperemesis gravidarum

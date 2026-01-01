@@ -1,2 +1,3 @@
 **Roxanne Ziman**
-PhD candidate - Affective visualization design, biomedical visualization
+
+PhD candidate - Affective visualization, biomedical visualization, HCI

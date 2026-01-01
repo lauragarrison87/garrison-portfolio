@@ -37,15 +37,15 @@ nav_order: 5
 
 - **Changing Aesthetics in Molecular Graphics**, EuroVis Conference, Odense, Denmark, May 2024.
 - **When the Body Became Data: Historical Data Cultures and Anatomical Illustration**, CHI Conference on Human Factors in Computing Systems, Honolulu, Hawaii, May 2024.
-- **Visual Exploration, Analysis, and Communication of Physiological Processes**, EuroVis Conference, Leipzig, Germany, June 2023. *[1st Place Dirk Bartz Prize]*
-- **Visualizing Protein Residue Chemical Modifications**, Bio+MedVis Challenge at IEEE VIS, Oklahoma City, Oklahoma, October 2022. *[Best Redesign Challenge Entry]*
+- **Visual Exploration, Analysis, and Communication of Physiological Processes**, EuroVis Conference, Leipzig, Germany, June 2023. **[1st Place Dirk Bartz Prize]**
+- **Visualizing Protein Residue Chemical Modifications**, Bio+MedVis Challenge at IEEE VIS, Oklahoma City, Oklahoma, October 2022. **[Best Redesign Challenge Entry]**
 - **Considering Best Practices in Color Palettes for Molecular Visualizations**, Design X Bioinformatics Workshop, Virtual, September 2022. 
 - **Content-Driven Layout for Visualization Design**, International Symposium on Visual Information Communication and Interaction (VINCI), Chur, Switzerland, August 2022. 
 - **Trends & Opportunities in Visualization for Physiology: A Multiscale Overview**, EuroVis Conference (STAR track), Rome, Italy, June 2022.
-- **An Exploration of Practice and Preferences for the Visual Communication of Biomedical Processes**, EuroGraphics Workshop on Visual Computing for Biology and Medicine, Paris, France, August 2021. [Honorable mention Best Full Paper]
+- **An Exploration of Practice and Preferences for the Visual Communication of Biomedical Processes**, EuroGraphics Workshop on Visual Computing for Biology and Medicine, Paris, France, August 2021. **[Honorable mention Best Full Paper]**
 - **DimLift: Interactive Hierarchical Data Exploration through Dimensional Bundling**, IEEE VIS Conference, Virtual, October 2021.
 - **SpectraMosaic: An Exploratory Tool for the Interactive Visual Analysis of Magnetic Resonance Spectroscopy Data**, EuroGraphics Workshop on Visual Computing for Biology and Medicine, Brno, Czech Republic, September 2019.
-- **A Visual Encoding System for Comparative Exploration of Magnetic Resonance Spectroscopy Data**, EuroVis Conference, Porto, Portugal, June 2019. *[Best Poster Award]*
+- **A Visual Encoding System for Comparative Exploration of Magnetic Resonance Spectroscopy Data**, EuroVis Conference, Porto, Portugal, June 2019. **[Best Poster Award]**
 
 
 

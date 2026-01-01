@@ -1,2 +1,3 @@
 **Hanna Balaka**
-PhD Candidate - Visual analytics for multidimensional, ambiguous data
+
+PhD Candidate - Visual analytics

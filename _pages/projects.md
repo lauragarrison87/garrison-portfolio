@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research, teaching, and graphical work organized by theme. 
+description: Research and outreach projects organized by theme.
 nav: true
 nav_order: 3
 display_categories: [research, outreach]
