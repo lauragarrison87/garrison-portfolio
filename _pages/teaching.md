@@ -19,7 +19,7 @@ nav_order: 4
 
 ### Workshops/Schools
 
-- [**DataVis 10½: A practical brief intro to data visualization**](https://biomedvis.github.io/2025/announcements/program/#Altair), Bio+MedVis Summer School, October 2025.
+- [**DataVis 10½: A practical brief intro to data visualization**](https://biomedvis.github.io/2025/announcements/program/#Altair), Bio+MedVis Summer School, October 2025 (led in-person by [Amy Zhang](https://amykzhang.com)).
 - **Collaborative Workshop for Science Communication and Education** (organizer), University of Bergen, December 2024. 
 - **Share Your Science**. UiB ICT Research School, November 2024. 
 - **Workshop on Collaborative Scientific Software Development and Management of Open Source Scientific Packages**, 9th: 10th, and 11th editions. International Consortium for Theoretical Physics (ICTP), Trieste, Italy. Nov 2022, 2023, 2024. Part of teaching team. Taught and mentored in data visualization and introductory python programming for physics researchers.
@@ -30,7 +30,7 @@ nav_order: 4
 
 ### Current PhD Students 
 
-- **[Ke Er (Amy) Zhang](www.amykzhang.com)** -- critical visualization 
+- **[Ke Er (Amy) Zhang](https://amykzhang.com)** -- critical visualization 
 - **[Roxanne Ziman](https://vis.uib.no/team/roxanne-ziman/)** -- affective visualization and biomedical communication 
 - **[Hanna Balaka](https://vis.uib.no/team/hanna-balaka/)** -- visual analytics 
 

@@ -9,9 +9,7 @@ category: research
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I am interested in designing tools and methods that employ visual analytics techniques to help shape data and technology to support holistic and nuanced decision-making. The majority of my work in this area has been motivated primarily through problems in the biomedical domain. 
 
 <div class="publications">
   {% bibliography -f papers -q @*[key=balaka2025MoBaVAHC]* %}
