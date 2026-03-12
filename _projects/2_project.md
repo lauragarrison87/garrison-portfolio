@@ -12,6 +12,7 @@ related_publications: false
 I am interested in applying perspectives from critical theory, in particular poststructuralist thought, to reason about how we think about doing visualization. The following publications explore these ideas. 
 
 <div class="publications">
+{% bibliography -f papers -q @*[key=saharan2026normative]* %}
   {% bibliography -f papers -q @*[key=zhang2025deconstruct]* %}
   {% bibliography -f papers -q @*[key=alhazwani2025datahum]* %}
   {% bibliography -f papers -q @*[key=zhang2025stories]* %}
