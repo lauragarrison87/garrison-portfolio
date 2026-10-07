@@ -12,6 +12,7 @@ related_publications: false
 With a background in visual science communication and medical illustration, I am interested in studying how principles from these domains apply and shape visual data communication and storytelling. The following publications explore this from both a creator workflow as well as an audience perspective, and many of these focus on the biomedical domain. 
 
 <div class="publications">
+{% bibliography -f papers -q @*[key=budich2026emotionalengagement]* %}
   {% bibliography -f papers -q @*[key=ziman2025genaixbiomedvis]* %}
   {% bibliography -f papers -q @*[key=zhang2025melodification]* %}
   {% bibliography -f papers -q @*[key=mittenentzwei2025icom]* %}

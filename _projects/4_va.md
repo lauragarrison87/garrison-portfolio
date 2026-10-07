@@ -12,6 +12,7 @@ related_publications: false
 I am interested in designing tools and methods that employ visual analytics techniques to help shape data and technology to support holistic and nuanced decision-making. The majority of my work in this area has been motivated primarily through problems in the biomedical domain. 
 
 <div class="publications">
+{% bibliography -f papers -q @*[key=balaka2026hamcat]* %}
   {% bibliography -f papers -q @*[key=balaka2025MoBaVAHC]* %}
   {% bibliography -f papers -q @*[key=zimanVCBM2024mobaDash]* %}
   {% bibliography -f papers -q @*[key=balaka2023MoBaExplorer]* %}
