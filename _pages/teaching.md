@@ -19,6 +19,7 @@ nav_order: 4
 
 ### Workshops/Schools
 
+- **Communicating your science with transparency and care**. PRESIMAL Autumn Research School. Sola, Norway, November 2026.
 - [**DataVis 10½: A practical brief intro to data visualization**](https://biomedvis.github.io/2025/announcements/program/#Altair), Bio+MedVis Summer School, October 2025 (led in-person by [Amy Zhang](https://amykzhang.com)).
 - **Collaborative Workshop for Science Communication and Education** (organizer), University of Bergen, December 2024. 
 - **Share Your Science**. UiB ICT Research School, November 2024. 
@@ -36,14 +37,16 @@ nav_order: 4
 
 ### Current MSc Students 
 
-- **Magnus Severinsen** -- storytelling for multivariate, time-oriented social networks
 - **Carl Didrik Torkildsen** -- visual exploration of linguistics databases 
 - **Dag Bjugn** -- gamifying data visualization  
 - **Nicholas Mjøs** -- mixed-methods metrics for engagement with visual data stories 
 - **Martin Štourač** (Masaryk University) -- patient-friendly visualization of multimodal medical data 
+- **Magnus Brekke** -- Exploring cell division orientation and tissue dynamics during early embryonic development
 
 
 ### Former Students 
 
-- **Jakub Vašíček** (MSc - Masaryk University) -- magnetic resonance spectroscopy design study (SpectraMosaic) 
-- **Beatrice Budich** (MSc - Otto von Guericke University) -- medical narrative visualization for hyperemesis gravidarum
+- **Jakub Vašíček** (MSc, Masaryk University) -- magnetic resonance spectroscopy design study (SpectraMosaic) 
+- **Beatrice Budich** (MSc, Otto von Guericke University) -- medical narrative visualization for hyperemesis gravidarum
+- **Hanna Balaka** (MSc, University of Bergen) -- Designing Approachable and Accessible Visualizations of Genomics Data for a Mixed Audience
+- **Magnus Severinsen** (University of Bergen) -- storytelling for multivariate, time-oriented social networks
